@@ -1,0 +1,24 @@
+<header class="header">
+  <a class="nav" [routerLink]="['/login']">
+    <img class="logo" src="../../../assets/image (4).png" alt="" srcset="">
+    <!-- <img [src]="'../../../assets/image (4).png' | imageStylePipe" alt="image"> -->
+  </a>
+  <p>{{currentDate | date}}</p>
+  <h2>{{userNameConnected}} :מחובר למערכת</h2>
+
+  <h3>{{showNumOfCV}} :מספר קורות חיים שהעלית</h3>
+</header>
+<p>:️️👇למעבר לרשימת משרות מסוננת לחץ כאן</p>
+<button (click)="filterJobs()">{{jobUserConnected}}</button>
+
+<form *ngIf="flag">
+  <div *ngFor="let j of filteredJobs">
+    <div  class="jobjob">
+      <h2>שם המשרה: </h2>
+      <p>{{j.jobName}}</p>
+      <h2>איזור: </h2>
+      <p>{{j.area}}</p>
+    </div>
+  </div>
+
+</form>

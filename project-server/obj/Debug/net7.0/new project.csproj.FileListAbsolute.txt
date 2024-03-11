@@ -1,0 +1,173 @@
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\appsettings.json
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\new project.exe
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\new project.deps.json
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\new project.runtimeconfig.json
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\new project.dll
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\new project.pdb
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\נחמי\Desktop\אנגולר\new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.csproj.AssemblyReference.cache
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.AssemblyInfoInputs.cache
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.AssemblyInfo.cs
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\staticwebassets\msbuild.new project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\staticwebassets\msbuild.build.new project.props
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.new project.props
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.new project.props
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\scopedcss\bundle\new project.styles.css
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.csproj.CopyComplete
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.dll
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\refint\new project.dll
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.pdb
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\new project.genruntimeconfig.cache
+C:\Users\נחמי\Desktop\אנגולר\new project\obj\Debug\net7.0\ref\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\appsettings.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\new project.exe
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\new project.deps.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\new project.runtimeconfig.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\new project.pdb
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.csproj.AssemblyReference.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.AssemblyInfoInputs.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.AssemblyInfo.cs
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\staticwebassets\msbuild.new project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\staticwebassets\msbuild.build.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\scopedcss\bundle\new project.styles.css
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.csproj.CopyComplete
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\refint\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.pdb
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\new project.genruntimeconfig.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\obj\Debug\net7.0\ref\new project.dll
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\appsettings.json
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\new project.exe
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\new project.deps.json
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\new project.runtimeconfig.json
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\new project.dll
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\new project.pdb
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.AssemblyInfo.cs
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\staticwebassets\msbuild.new project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\staticwebassets\msbuild.build.new project.props
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.new project.props
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.new project.props
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\scopedcss\bundle\new project.styles.css
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.csproj.CopyComplete
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.dll
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\refint\new project.dll
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.pdb
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\new project.genruntimeconfig.cache
+C:\Users\USER\Desktop\final new project\obj\Debug\net7.0\ref\new project.dll
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\Controllers\users.json
+C:\Users\USER\Desktop\final new project\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\appsettings.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\Controllers\users.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\new project.exe
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\new project.deps.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\new project.runtimeconfig.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\new project.pdb
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.csproj.AssemblyReference.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.AssemblyInfoInputs.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.AssemblyInfo.cs
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\staticwebassets\msbuild.new project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\staticwebassets\msbuild.build.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\scopedcss\bundle\new project.styles.css
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.csproj.CopyComplete
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\refint\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.pdb
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\new project.genruntimeconfig.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\- final new project- מעודכן\obj\Debug\net7.0\ref\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\Controllers\users.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\final new project\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\appsettings.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\Controllers\users.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\new project.exe
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\new project.deps.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\new project.runtimeconfig.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\new project.pdb
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.csproj.AssemblyReference.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.AssemblyInfoInputs.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.AssemblyInfo.cs
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.csproj.CoreCompileInputs.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\staticwebassets\msbuild.new project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\staticwebassets\msbuild.build.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.new project.props
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\scopedcss\bundle\new project.styles.css
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.csproj.CopyComplete
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\refint\new project.dll
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.pdb
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\new project.genruntimeconfig.cache
+C:\Users\נחמי\Desktop\תכנות\יד\Angular\project-server\obj\Debug\net7.0\ref\new project.dll

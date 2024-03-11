@@ -1,0 +1,11 @@
+<div *ngIf="!flag">
+    <app-main></app-main>
+    <div id="userConnected">
+        <input type="text" placeholder="enter your name" #userName>
+        <input type="password" placeholder="enter your password" #userPassword>
+        <button (click)="saveUserConnected(userPassword.value,userName.value)">כניסה</button>
+    </div>
+</div>
+<div *ngIf="flag" >
+    <app-list-jobs></app-list-jobs>
+</div>

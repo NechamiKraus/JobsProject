@@ -1,0 +1,16 @@
+<app-main></app-main>
+<form ngForm class="jobsForm">
+    <h3>שם המשרה: </h3>
+    <p>{{jobData.jobName}}</p>
+    <h3>תחום המשרה: </h3>
+    <p>{{jobData.type}}</p>
+    <h3>איזור: </h3>
+    <p>{{jobData.area}}</p>
+    <h3>מספר שעות: </h3>
+    <p>{{jobData.numHours}}</p>
+    <h3>דרישות: </h3>
+    <p>{{jobData.requirements}}</p>
+    <h3>עבודה מהבית? </h3>
+    <p>{{jobData.jobHome}}</p>
+    <button (click)="sendCV()">שלח קורות חיים</button>
+</form>

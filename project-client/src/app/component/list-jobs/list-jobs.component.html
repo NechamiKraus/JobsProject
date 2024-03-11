@@ -1,0 +1,45 @@
+<app-main></app-main>
+<form *ngIf="!filter">
+  <div *ngFor="let j of joblist">
+    <div class="job">
+      <h5>שם המשרה: </h5>
+      <p>{{j.jobName}}</p>
+      <h5>איזור: </h5>
+      <p>{{j.area}}</p>
+      <button (click)="showJob(j.jobName)">show details</button>
+    </div>
+  </div>
+  <button (click)="filterArea()">סנן לפי איזור</button>
+  <button (click)="filterFiled()">סנן לפי תחום</button>
+
+  <div *ngIf="flagArea">
+    <select [(ngModel)]="selectedOption" name="options">
+      <option value="Jerusalem">Jerusalem</option>
+      <option value="North">North</option>
+      <option value="South">South</option>
+    </select>
+  </div>
+
+  <div *ngIf="flagFiled">
+    <select [(ngModel)]="selectedOption" name="options">
+      <option value="COMPUTERS">COMPUTERS</option>
+      <option value="MATH">MATH</option>
+      <option value="TEACHERS">TEACHERS</option>
+    </select>
+  </div>
+  <button (click)="chooseOnSelect()">סנן</button>
+</form>
+
+<form *ngIf="filter">
+  <div *ngFor="let j of filteredJobs">
+    <div class="job">
+    <h5>שם המשרה: </h5>
+    <p>{{j.jobName}}</p>
+    <h5>איזור: </h5>
+    <p>{{j.area}}</p>
+    <button (click)="showJob(j.jobName)">show details</button>
+  </div>
+  </div>
+</form>
+
+<router-outlet></router-outlet>
